@@ -1,0 +1,98 @@
+h1, h2, h3 {
+    text-align: center;
+    text-align: center;
+    font-family: helvetica;
+}
+
+@font-face {
+    font-family: Archivo;
+    src: url(Archivo.otf);
+}
+
+#h2 {
+    font-family: Archivo;
+}
+
+table {
+    text-align: center;
+}
+
+td, th {
+    padding: 10px;
+    font-family: helvetica;
+}
+
+#i1 {
+    position: relative;
+    left: 20px;
+}
+
+#img2 {
+    position: absolute;
+    left: 20%; 
+}
+
+#p1 {
+    font-size: 12;
+    font-family: Archivo;
+    font-weight: lighter;
+}
+
+#p1 {
+    text-align: right;
+    padding-right: 5%;
+    line-height: 1.5;
+    padding-top: 375px;
+}
+
+@font-face {
+    font-family: barlow;
+    src: url(barlowsemicondensed-italic.otf);
+}
+
+#h1 {
+    font-family: barlow;
+    font-size: 85px;
+    position:absolute;
+    top:35px;
+    line-height: 1.35;
+    padding-left: 55%;
+    text-align: left;
+}
+
+@font-face {
+    font-family: fjalla;
+    src: url(fjalla.otf);
+}
+
+@font-face {
+    font-family: hlight;
+    src: url(Helvetica-Light.otf);
+}
+
+#d1r2c1, #d1r2c3 {
+    font-family: fjalla;
+    font-size: 30px;
+}
+
+#d1r3c2, #d1r4c2, #d1r5c2, #d1r6c2, #d1r7c2, #d1r8c2, #d1r9c2, #d1r10c2, #d1r11c2 {
+    font-family: hlight;
+}
+
+@font-face {
+    font-family: hlight-cond;
+    src: url(hlight-cond.otf);
+}
+
+#d1r1c1, #d1r1c3 {
+    font-family: hlight-cond;
+}
+
+@font-face {
+    font-family: LeagueSpartan;
+    src: url(LeagueSpartan.otf);
+}
+
+#x {
+    font-family: LeagueSpartan;
+}
